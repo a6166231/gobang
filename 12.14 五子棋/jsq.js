@@ -88,7 +88,7 @@ function wing(){
 	whw=true;
 	if(win=="黑棋"||win=="白棋")
 		$("midmid").innerHTML="恭喜！"+win+"获得胜利！！！";
-	qb();
+// 	qb();
 	//water();
 	
 }
