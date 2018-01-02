@@ -1,0 +1,172 @@
+body{
+	background-color:#696969 ;
+}
+#box{
+	width:720px;
+	height:700px;
+	margin:0 auto;
+}
+#qbl{
+	width:550px;
+	height:420px;
+	float:left;
+	margin-left:20px;
+	margin-top:150px;
+	background-repeat:no-repeat;
+}
+#qbr{
+	background-repeat:no-repeat;
+	width:550px;
+	height:720px;
+	position:absolute;
+	right:30px;
+	top:158px;
+	transform-style: preserve-3d; 
+	transform: rotateY(180deg); 
+}
+.tishi{
+	margin:0 auto;
+	width:1000px;
+	height:210px;
+	text-align:center;
+	
+}
+.tishi div{
+	width:1000px;
+	height:120px;
+	margin-top:5px;
+	line-height:80px;
+}
+#tsl{
+	font-size:40px;
+	
+}
+#lf{
+	margin-top:30px;
+	text-align:center;
+	width:100px;
+	height:90px;
+	float:left;
+	margin-left:10%;
+}
+
+#maid{
+	width:570px;
+	margin:0 auto;
+	height:125px;
+	float:left;
+}
+#maid div{
+	float:left;
+	font-family: "楷体","楷体_GB2312";
+	font-weight:bolder;
+}
+#midmid{
+	margin-left:2px;
+	width:65%;
+	height:60px;
+	margin-top:40px;
+	background-color:#FF8C00;
+	font-size:25px;
+	line-height:60px;
+	text-align:center;
+	color:#444444;
+	
+}
+#midleft,#midright{
+	text-align:center;
+	line-height:110px;
+	font-size:66px;
+	background-color:#B97A57;
+	background-repeat:no-repeat;
+	background-size:80px 110px; 
+	margin-left:2px;
+	border:3px solid black;
+	width:14%;
+	height:110px;
+}
+#neil,#neir{
+	background-repeat:no-repeat;
+	background-size:96px 110px; 
+	text-align:center;
+	line-height:96px;
+	width:65px;
+	height:96px;
+	margin:5px;
+	border:2px solid black;
+	float:left;
+}
+#rt{
+	margin-top:30px;
+	text-align:center;
+	width:100px;
+	height:90px;
+	float:right;
+	margin-right:13%;
+}
+
+input:hover{
+	background-color:#6A5ACD;
+	color:white;
+}
+input{
+	font-family: "楷体","楷体_GB2312";
+	font-weight:bolder;
+	border:none;
+	font-size:35px;
+	width:200px;
+	height:60px;
+	margin:20px;
+}
+#box div{
+	width:50px;
+	height:50px;
+	float:left;
+}
+#lf img{
+	width:80px;
+	height:80px;
+}
+#rt img{
+	width:80px;
+	height:80px;
+}
+
+.a{
+	background-image:url("image/mid.png");
+}
+#box div>div{
+	width:50px;
+	height:50px;
+	border-radius:30px;
+}
+.black{
+	background-color:black;
+}
+.white{
+	background-color:white;
+}
+.a0{
+	background-image:url("image/zs.png");
+}
+.a13{
+	background-image:url("image/ys.png");
+}
+.a182{
+	background-image:url("image/zx.png");
+}
+.a195{
+	background-image:url("image/yx.png");
+}
+.zuo{
+	background-image:url("image/zuo.png");
+}
+.shang{
+	background-image:url("image/shang.png");
+}
+.xia{
+	background-image:url("image/xia.png");
+}
+.you{
+	background-image:url("image/you.png");
+}
