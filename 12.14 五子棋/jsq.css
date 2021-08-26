@@ -9,7 +9,8 @@ body{
 #qbl{
 	width:550px;
 	height:420px;
-	float:left;
+	position:absolute;
+	/* float:left; */
 	margin-left:20px;
 	margin-top:150px;
 	background-repeat:no-repeat;
